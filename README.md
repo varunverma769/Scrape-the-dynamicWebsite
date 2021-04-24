@@ -1,2 +1,1 @@
-# Scrape-the-dynamicWebsite
-Scrapping on HackerRank using Puppeteer
+# Scrapping on HackerRank using Puppeteer
